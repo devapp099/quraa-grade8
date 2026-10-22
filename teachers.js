@@ -1,0 +1,1 @@
+window.QURAA_TEACHERS=[];
